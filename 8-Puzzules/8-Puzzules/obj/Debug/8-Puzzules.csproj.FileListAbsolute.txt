@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\bin\Debug\8-Puzzules.exe.config
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\bin\Debug\8-Puzzules.exe
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\bin\Debug\8-Puzzules.pdb
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\obj\Debug\8-Puzzules.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\obj\Debug\8-Puzzules.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\obj\Debug\8-Puzzules.exe
+C:\Users\Lenovo\source\repos\8-Puzzules\8-Puzzules\obj\Debug\8-Puzzules.pdb
